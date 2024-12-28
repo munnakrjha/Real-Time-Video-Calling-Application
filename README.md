@@ -27,13 +27,7 @@ The Real-Time Video Calling Application is a robust platform designed for seamle
 ### Communication Technology
 - **WebRTC (Web Real-Time Communication)**: To enable video and audio streaming directly between peers.
 
-### Database
-- **MongoDB**: For storing user data, call logs, and chat messages.
 
-### DevOps and Deployment
-- **Docker**: To containerize the application for consistent deployment.
-- **Kubernetes**: For orchestrating and managing containerized services.
-- **AWS (Amazon Web Services)**: For hosting the application and managing scalability.
 
 ### Additional Tools
 - **Socket.io**: To implement real-time chat and notifications.
